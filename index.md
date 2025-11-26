@@ -11,4 +11,4 @@ This page collects all resources related to my PhD research.
   [Browse collected papers](https://www.zotero.org/groups/6326335/real-time_video_super-resolution)
 
 - **Research Notes (Obsidian / GitHub)**  
-  [Notes repository](https://github.com/yourname/vsr-notes)
+  [Notes repository (private)](https://github.com/Koroliuk/vsr-public-notes)
